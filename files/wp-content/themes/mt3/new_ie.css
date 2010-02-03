@@ -1,0 +1,23 @@
+* html #page_header h1 {
+	margin: 12px 12px 0px 0px;
+}
+* html .posts_list .posts_list_ul li a {
+	padding: 6px 0px 3px 5px;
+}
+* html .posts_list .posts_list_ul li a .posts_list_date {
+	padding: 0px 0px 0px 6px;
+}
+* html .posts_list .posts_list_comment {
+	padding: 0px 6px 0px 0px;
+}
+* html .single_column_button {
+}
+* html .real_content ol {
+	margin-left: 24px;
+}
+*:first-child+html .box_warning {
+	background-position: 9px 9px !important;
+}
+* html .box_warning {
+	background-position: 9px 9px !important;
+}
